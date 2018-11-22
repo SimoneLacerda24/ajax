@@ -16,9 +16,9 @@ npm i
 
 Then, you can start the webserver and execute tests with the following command:
 
-```console
+console `` `
 npm run test:watch
-```
+`` `
 
 - Write tests for your feature;
 
@@ -49,7 +49,7 @@ With the latest code version on `dev` branch, it will be executed the following 
 
 On `dev` branch, just Run this command:
 
-```console
+```console 
 npm version <version>
 ```
 
