@@ -16,9 +16,9 @@ npm i
 
 Then, you can start the webserver and execute tests with the following command:
 
-```console
+console `` `
 npm run test:watch
-```
+`` `
 
 - Write tests for your feature;
 
